@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "dayjs": "^1.11.7"
-  }
+  },
+  "name": "mylibrary",
+  "version": "0.0.1",
+  "description": "just to test my library",
+  "main": "exercise3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilkhom",
+  "license": "ISC"
 }
